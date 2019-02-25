@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Form>
+  <Controls>
+    <Control>
+      <Name>Button1</Name>
+      <ControlType>System.Windows.Forms.Button</ControlType>
+      <Properties>
+        <ControlProp>
+          <PropName>Location</PropName>
+          <PropValueType>System.Drawing.Point</PropValueType>
+          <PropValue>{X=304,Y=372}</PropValue>
+        </ControlProp>
+        <ControlProp>
+          <PropName>Size</PropName>
+          <PropValueType>System.Drawing.Size</PropValueType>
+          <PropValue>{Width=75, Height=23}</PropValue>
+        </ControlProp>
+      </Properties>
+    </Control>
+    <Control>
+      <Name>Label2</Name>
+      <ControlType>System.Windows.Forms.Label</ControlType>
+      <Properties>
+        <ControlProp>
+          <PropName>Location</PropName>
+          <PropValueType>System.Drawing.Point</PropValueType>
+          <PropValue>{X=491,Y=301}</PropValue>
+        </ControlProp>
+        <ControlProp>
+          <PropName>Size</PropName>
+          <PropValueType>System.Drawing.Size</PropValueType>
+          <PropValue>{Width=100, Height=23}</PropValue>
+        </ControlProp>
+      </Properties>
+    </Control>
+    <Control>
+      <Name>ListBox3</Name>
+      <ControlType>System.Windows.Forms.ListBox</ControlType>
+      <Properties>
+        <ControlProp>
+          <PropName>Location</PropName>
+          <PropValueType>System.Drawing.Point</PropValueType>
+          <PropValue>{X=85,Y=332}</PropValue>
+        </ControlProp>
+        <ControlProp>
+          <PropName>Size</PropName>
+          <PropValueType>System.Drawing.Size</PropValueType>
+          <PropValue>{Width=120, Height=96}</PropValue>
+        </ControlProp>
+      </Properties>
+    </Control>
+  </Controls>
+</Form>

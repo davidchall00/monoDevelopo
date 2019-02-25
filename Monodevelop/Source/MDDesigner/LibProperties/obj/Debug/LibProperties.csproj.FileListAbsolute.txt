@@ -1,0 +1,5 @@
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\LibProperties\bin\Debug\LibProperties.dll
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\LibProperties\bin\Debug\LibProperties.pdb
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\LibProperties\obj\Debug\LibProperties.dll
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\LibProperties\obj\Debug\LibProperties.pdb
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\LibProperties\obj\Debug\LibProperties.csprojResolveAssemblyReference.cache

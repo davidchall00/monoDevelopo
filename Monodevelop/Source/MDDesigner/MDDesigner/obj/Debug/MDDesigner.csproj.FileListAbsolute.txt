@@ -1,0 +1,12 @@
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\bin\Debug\MDDesigner.exe.config
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\bin\Debug\MDDesigner.exe
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\bin\Debug\MDDesigner.pdb
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\bin\Debug\LibProperties.dll
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\bin\Debug\LibProperties.pdb
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\obj\Debug\MDDesigner.csprojResolveAssemblyReference.cache
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\obj\Debug\MDDesigner.Form1.resources
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\obj\Debug\MDDesigner.Properties.Resources.resources
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\obj\Debug\MDDesigner.csproj.GenerateResource.Cache
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\obj\Debug\MDDesigner.exe
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\obj\Debug\MDDesigner.pdb
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\MDDesigner\obj\Debug\MDDesigner.PropertyForm.resources

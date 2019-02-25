@@ -1,0 +1,7 @@
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\GenCode\bin\Debug\GenCode.exe
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\GenCode\bin\Debug\GenCode.pdb
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\GenCode\bin\Debug\LibProperties.dll
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\GenCode\bin\Debug\LibProperties.pdb
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\GenCode\obj\Debug\GenCode.csprojResolveAssemblyReference.cache
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\GenCode\obj\Debug\GenCode.exe
+C:\Users\davidchall\Desktop\Monodevelop\Source\MDDesigner\GenCode\obj\Debug\GenCode.pdb
